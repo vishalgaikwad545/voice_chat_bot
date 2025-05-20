@@ -1,0 +1,1 @@
+"""LangChain components for the voice assistant application."""

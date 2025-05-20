@@ -1,0 +1,1 @@
+"""LangGraph workflow for the voice assistant application."""
